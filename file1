@@ -1,4 +1,5 @@
-file1 created
+file1 created on main
 two lines added on main
 two lines added on main
-file1 updated
+--line added on br1
+file1 (update on br1) updated on main
